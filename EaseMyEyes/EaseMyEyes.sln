@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "EaseMyEyes", "EaseMyEyes\EaseMyEyes.ccproj", "{B2645E73-ADFA-43F2-9C7A-13E8CFD57AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EaseMyEyes.Web", "EaseMyEyes.Web\EaseMyEyes.Web.csproj", "{280823C9-61D1-488D-979D-F492C816FEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2645E73-ADFA-43F2-9C7A-13E8CFD57AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2645E73-ADFA-43F2-9C7A-13E8CFD57AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2645E73-ADFA-43F2-9C7A-13E8CFD57AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2645E73-ADFA-43F2-9C7A-13E8CFD57AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280823C9-61D1-488D-979D-F492C816FEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280823C9-61D1-488D-979D-F492C816FEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280823C9-61D1-488D-979D-F492C816FEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280823C9-61D1-488D-979D-F492C816FEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
